@@ -20,6 +20,7 @@ To analyze sales data and extract meaningful business insights using Excel.
 - The West region contributes the highest revenue among all regions.
 - The South region shows comparatively lower performance.
 - A small number of products contribute a large portion of total sales.
+- Technology category generates the highest sales, followed by Furniture, while Office Supplies contributes the least.
 
 ## Files Included
 - `superstore_sales_analysis.xlsx` → Excel analysis with charts
